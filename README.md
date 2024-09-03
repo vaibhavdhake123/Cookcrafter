@@ -11,7 +11,7 @@ Recipe Book App is a React Native application that allows users to search for re
 
 ## Screenshots
 
-![Recipe Book Application](https://github.com/vaibhavdhake123/Recipe-Book/assets/143077217/8c1422f5-07a2-4c14-a94c-fae6373990fb)
+![PlayStore Banner ](https://github.com/user-attachments/assets/506e10ff-556c-4c62-90b3-a798e5a943a1)
 
 
 ## Usage
