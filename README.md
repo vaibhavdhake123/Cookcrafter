@@ -1,6 +1,6 @@
-# 🍴🥣 Recipe Book App 🍕😋
+# 🍴🥣Cook Crafter App 🍕😋
 
-Recipe Book App is a React Native application that allows users to search for recipes, save their favorite recipes, filter recipes by category, and write new recipes. With a user-friendly interface and a vast collection of recipes, it’s the ultimate companion for home cooks and food lovers!
+Cook Crafter App is a React Native application that allows users to search for recipes, save their favorite recipes, filter recipes by category, and write new recipes. With a user-friendly interface and a vast collection of recipes, it’s the ultimate companion for home cooks and food lovers!
 
 ## Features
 
@@ -31,5 +31,5 @@ Recipe Book App is a React Native application that allows users to search for re
 
 ## Download the App
 
-You can download the **Recipe Book App** from the [Google Play Store](https://play.google.com/store/apps/details?id=com.cookcrafter.recipe).
+You can download the **Cook Crafter App** from the [Google Play Store](https://play.google.com/store/apps/details?id=com.cookcrafter.recipe).
 
