@@ -4,7 +4,7 @@ Cook Crafter App is a React Native application that allows users to search for r
 
 ## Features
 
-- ** Massive Recipe Library** – 1000+ recipes for breakfast, lunch, dinner, snacks, and desserts!
+-**Massive Recipe Library** – 1000+ recipes for breakfast, lunch, dinner, snacks, and desserts!
 - ** AI Cooking Assistant** – Get smart recipe suggestions based on your ingredients and preferences.
 - ** Chatbot Cooking App** – Need help while cooking? Ask our interactive chatbot for real-time cooking tips!
 - ** Meal Planner & Grocery List** – Plan your weekly meals and create a smart grocery list effortlessly.
