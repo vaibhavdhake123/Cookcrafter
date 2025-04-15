@@ -4,16 +4,17 @@ Cook Crafter App is a React Native application that allows users to search for r
 
 ## Features
 
-✔ Massive Recipe Library – 1000+ recipes for breakfast, lunch, dinner, snacks, and desserts!
-✔ AI Cooking Assistant – Get smart recipe suggestions based on your ingredients and preferences.
-✔ Chatbot Cooking App – Need help while cooking? Ask our interactive chatbot for real-time cooking tips!
-✔ Meal Planner & Grocery List – Plan your weekly meals and create a smart grocery list effortlessly.
-✔ Offline Recipe Storage – Save your favorite recipes and access them anytime, anywhere, without the internet.
-✔ Step-by-Step Cooking Guide – Easy cooking instructions for beginners and expert chefs alike.
-✔ Search & Filter Recipes – Quickly find vegetarian recipes, gluten-free recipes, keto meals, and more.
-✔ Healthy & Diet-Friendly Options – Discover low-carb, high-protein, vegan, and weight-loss recipes.
-✔ Trending & Popular Recipes – Stay updated with the latest food trends and viral recipes.
-✔ Interactive Cooking Community – Share recipes, tips, and experiences with fellow food lovers.
+**✔ Massive Recipe Library** – 1000+ recipes for breakfast, lunch, dinner, snacks, and desserts!
+**✔ AI Cooking Assistant** – Get smart recipe suggestions based on your ingredients and preferences.
+**✔ Chatbot Cooking App** – Need help while cooking? Ask our interactive chatbot for real-time cooking tips!
+**✔ Meal Planner & Grocery List** – Plan your weekly meals and create a smart grocery list effortlessly.
+**✔ Offline Recipe Storage** – Save your favorite recipes and access them anytime, anywhere, without the internet.
+**✔ Step-by-Step Cooking Guide** – Easy cooking instructions for beginners and expert chefs alike.
+**✔ Search & Filter Recipes** – Quickly find vegetarian recipes, gluten-free recipes, keto meals, and more.
+**✔ Healthy & Diet-Friendly Options** – Discover low-carb, high-protein, vegan, and weight-loss recipes.
+**✔ Trending & Popular Recipes** – Stay updated with the latest food trends and viral recipes.
+**✔ Interactive Cooking Community** – Share recipes, tips, and experiences with fellow food lovers.
+
 
 
 ## Screenshots
